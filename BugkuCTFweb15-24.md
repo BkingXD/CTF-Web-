@@ -228,4 +228,3 @@ if(isset($_GET['v1']) && isset($_GET['v2']) && isset($_GET['v3'])){
 
 构造`payload：?v1=QNKCDZO&v2=240610708&v3[]=1`，在原页面传参，拿到flag
 
-# web25
